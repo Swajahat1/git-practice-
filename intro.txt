@@ -2,3 +2,6 @@ My name is SYED WAJAHAT.
 This is my first GitHub assignment.
 I am learning Git and GitHub!
  
+
+
+I am practicing branching in Git!
